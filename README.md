@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-I'm a final-year B.Tech Computer Science student (graduating May 2026) who likes building things that sit right at the intersection of **engineering and design** — from on-device AI systems to interfaces people actually enjoy using.
+I'm Software Developer with knowledge in programming languages, web development, UI/UX design, prototype development, cloud-based systems, cybersecurity, and artificial intelligence. Looking for an opportunity to apply my technical and analytical strengths to build reliable, scalable software solutions while continuously growing through real-world challenges.
 
-- 🔬 Currently building **edge-AI deepfake detection** for Android using PyTorch + TensorFlow Lite
+- 🔬 Built **edge-AI deepfake detection** for Android using PyTorch + TensorFlow Lite
 - 🩸 Built a **cloud-based Blood Bank Management System** with role-based dashboards for donors, nurses, doctors, and lab staff
 - 🎨 Freelance graphic designer since 2022 — logos, branding, and digital design for multiple organizations
 - 📝 Published researcher — real-time deepfake detection, IRJAEH, April 2026
@@ -61,8 +61,8 @@ I'm a final-year B.Tech Computer Science student (graduating May 2026) who likes
 
 | Project | Description |
 |---|---|
-| 🛡️ **[AI-Powered Real-Time Deepfake Detection](#)** | On-device deepfake detection for Android using a PyTorch CNN optimized to TensorFlow Lite, with real-time face classification via Google ML Kit — fully private, no cloud processing |
-| 🩸 **[Cloud-Based Blood Bank Management System](#)** | Centralized donation platform with role-based dashboards (donor, nurse, doctor, lab staff), cloud record storage, automated certificates, and a recipient search/request module |
+| 🛡️ **[AI-Powered Real-Time Deepfake Detection](https://github.com/sachinskumar2004/Realtime_Deepfake_Detector_for_Android)** | On-device deepfake detection for Android using a PyTorch CNN optimized to TensorFlow Lite, with real-time face classification via Google ML Kit — fully private, no cloud processing |
+| 🩸 **[Cloud-Based Blood Bank Management System]** | Centralized donation platform with role-based dashboards (donor, nurse, doctor, lab staff), cloud record storage, automated certificates, and a recipient search/request module |
 | 🌐 **[µLearn Campus Chapter Website](https://github.com/sachinskumar2004/mulearncep)** | UI and front-end development for the µLearn CEP chapter site |
 | 💼 **[Personal Portfolio](https://sachinskumar.vercel.app)** | My personal site showcasing design and development work |
 
