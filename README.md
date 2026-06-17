@@ -66,7 +66,7 @@ I'm Software Developer with knowledge in programming languages, web development,
 | 🌐 **[µLearn Campus Chapter Website](https://github.com/sachinskumar2004/mulearncep)** | UI and front-end development for the µLearn CEP chapter site |
 | 💼 **[Personal Portfolio](https://sachinskumar.vercel.app)** | My personal site showcasing design and development work |
 
-> 💡 Replace the `#` links above with your actual GitHub repo URLs once you have them handy.
+
 
 ---
 
