@@ -110,7 +110,8 @@ International Research Journal on Advanced Engineering Hub (IRJAEH), Vol. 04, Is
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sachinskumar2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 </p>
-### 📫 Let's Connect
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachinskcep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
