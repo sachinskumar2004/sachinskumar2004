@@ -2,17 +2,17 @@
 <h3 align="center">Software Engineer | UI/UX Designer | Always shipping something</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachinskcep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/sachinsachu17"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://sachinskumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:sachinskumaratwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sachinskcep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.behance.net/sachinsachu17"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://sachinskumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sachinskumaratwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm Software Developer with knowledge in programming languages, web development, UI/UX design, prototype development, cloud-based systems, cybersecurity, and artificial intelligence. Looking for an opportunity to apply my technical and analytical strengths to build reliable, scalable software solutions while continuously growing through real-world challenges.
+I'm a Software Developer with knowledge in programming languages, web development, UI/UX design, prototype development, cloud-based systems, cybersecurity, and artificial intelligence. Looking for an op[...]
 
 - 🔬 Built **edge-AI deepfake detection** for Android using PyTorch + TensorFlow Lite
 - 🩸 Built a **cloud-based Blood Bank Management System** with role-based dashboards for donors, nurses, doctors, and lab staff
@@ -69,8 +69,8 @@ I'm Software Developer with knowledge in programming languages, web development,
 
 | Project | Description |
 |---|---|
-| 🛡️ **[AI-Powered Real-Time Deepfake Detection](https://github.com/sachinskumar2004/Realtime_Deepfake_Detector_for_Android)** | On-device deepfake detection for Android using a PyTorch CNN optimized to TensorFlow Lite, with real-time face classification via Google ML Kit — fully private, no cloud processing |
-| 🩸 **[Cloud-Based Blood Bank Management System]** | Centralized donation platform with role-based dashboards (donor, nurse, doctor, lab staff), cloud record storage, automated certificates, and a recipient search/request module |
+| 🛡️ **[AI-Powered Real-Time Deepfake Detection](https://github.com/sachinskumar2004/Realtime_Deepfake_Detector_for_Android)** | On-device deepfake detection for Android using a PyTorch CNN optim[...] 
+| 🩸 **[Cloud-Based Blood Bank Management System]** | Centralized donation platform with role-based dashboards (donor, nurse, doctor, lab staff), cloud record storage, automated certificates, and a [...]
 | 🌐 **[µLearn Campus Chapter Website](https://github.com/sachinskumar2004/mulearncep)** | UI and front-end development for the µLearn CEP chapter site |
 | 💼 **[Personal Portfolio](https://sachinskumar.vercel.app)** | My personal site showcasing design and development work |
 
@@ -99,24 +99,24 @@ International Research Journal on Advanced Engineering Hub (IRJAEH), Vol. 04, Is
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinskumar2004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinskumar2004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinskumar2004&show_icons=true&theme=tokyonight&hide_border=true" alt="Sachin's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinskumar2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sachinskumar2004&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinskumar2004&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinskumar2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinskumar2004&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 </p>
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachinskcep/">LinkedIn</a> •
-  <a href="https://www.behance.net/sachinsachu17">Behance</a> •
-  <a href="https://sachinskumar.vercel.app">Portfolio</a> •
-  <a href="mailto:sachinskumaratwork@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/sachinskcep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.behance.net/sachinsachu17"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://sachinskumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sachinskumaratwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center"><i>Open to opportunities in software development, UI/UX design, and AI/ML projects.</i></p>
